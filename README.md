@@ -9,10 +9,15 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 
 ## Algorithm
 1.Import dataset and print head, info of the dataset
+
 2.check for null values
+
 3.Import kmeans and fit it to the dataset
+
 4.Plot the graph using elbow method
+
 5.Print the predicted array
+
 6.Plot the customer segments
 
 ## Program:
@@ -93,8 +98,26 @@ plt.title("customer segments")
 ```
 
 ## Output:
+# Data Head
+![image](https://github.com/poojaanbu0/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119390329/d1464b78-a213-4899-a6a6-961efcfe69c4)
 
+# Data Info
+![image](https://github.com/poojaanbu0/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119390329/7d205035-e45b-413c-8b44-f27bba77d7d8)
 
+# Total rows
+![image](https://github.com/poojaanbu0/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119390329/1d43c7b3-9a09-4bb2-8c6c-4046b5d9e4e6)
+
+# Clusters using Elbow method
+![image](https://github.com/poojaanbu0/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119390329/489a603d-fce5-4434-8d99-e4fb302730e1)
+
+# k-means clustering
+![image](https://github.com/poojaanbu0/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119390329/8f76f12f-b6b1-4d48-8fad-115b42a385a1)
+
+# y_pred data
+![image](https://github.com/poojaanbu0/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119390329/e6c389a8-1152-47cf-89d5-f3126b2e0e16)
+
+# Customer Segments graph
+![image](https://github.com/poojaanbu0/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119390329/d1464b78-a213-4899-a6a6-961efcfe69c4)
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
