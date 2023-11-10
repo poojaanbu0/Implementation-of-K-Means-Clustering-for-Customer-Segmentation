@@ -108,13 +108,13 @@ plt.title("customer segments")
 # Data Info
 ![image](https://github.com/poojaanbu0/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119390329/7d205035-e45b-413c-8b44-f27bba77d7d8)
 
-# Total rows
+# Data.isnull().sum()
 ![image](https://github.com/poojaanbu0/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119390329/1d43c7b3-9a09-4bb2-8c6c-4046b5d9e4e6)
 
-# Clusters using Elbow method
+# Elbow method graph
 ![image](https://github.com/poojaanbu0/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119390329/489a603d-fce5-4434-8d99-e4fb302730e1)
 
-# k-means clustering
+# KMeans clusters
 ![image](https://github.com/poojaanbu0/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/119390329/8f76f12f-b6b1-4d48-8fad-115b42a385a1)
 
 # y_pred data
